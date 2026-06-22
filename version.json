@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.9/CleanRoom-1.0.9.zip",
-    "notes":  "App icon + dark theme-matched title bar; flat branded combo boxes; reorganized Quality Control menu (COAs + Microbiological COAs submenu); document generation runs off the UI thread with a progress indicator and pre-warmed LibreOffice; FP739-1 and Item/Microbiological CoA generation ported to the real templates (incl. the internal-CoA signature step); smoother LibreOffice install. Self-contained x64.",
+    "version":  "1.0.10",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.10/CleanRoom-1.0.10.zip",
+    "notes":  "Maintenance release (same features as 1.0.9): app icon + dark title bar, flat combo boxes, reorganized Quality Control menu, off-thread document generation with progress + pre-warmed LibreOffice, FP739-1 and Item/Microbiological CoA generation on the real templates incl. the internal-CoA signature step. Self-contained x64.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
