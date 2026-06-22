@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.2/CleanRoom-1.0.2.zip",
-  "notes": "Self-contained build — bundles the .NET 10 runtime, so client PCs do not need .NET installed. Same features as 1.0.1."
+  "version": "1.0.3",
+  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.3/CleanRoom-1.0.3.zip",
+  "notes": "Self-contained x64 build (no .NET install needed on clients). x64-default build config + all 1.0.x fixes."
 }
