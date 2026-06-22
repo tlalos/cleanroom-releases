@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.5/CleanRoom-1.0.5.zip",
-  "notes": "On-screen keyboard Greek/English switch (Ελληνικά/Αγγλικά). Self-contained x64."
+  "version": "1.0.6",
+  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.6/CleanRoom-1.0.6.zip",
+  "notes": "Keyboard Greek/English switch + symbols; centered combo boxes; real FP739-1 microbiological document generation. Self-contained x64."
 }
