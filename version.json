@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.3/CleanRoom-1.0.3.zip",
-  "notes": "Self-contained x64 build (no .NET install needed on clients). x64-default build config + all 1.0.x fixes."
+  "version": "1.0.4",
+  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.4/CleanRoom-1.0.4.zip",
+  "notes": "Fix weighing verification: blank batch fields (final batch/NoA/KERTUS) are skipped instead of dead-ending; supplier batch + final code still validated. Self-contained x64."
 }
