@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.4/CleanRoom-1.0.4.zip",
-  "notes": "Fix weighing verification: blank batch fields (final batch/NoA/KERTUS) are skipped instead of dead-ending; supplier batch + final code still validated. Self-contained x64."
+  "version": "1.0.5",
+  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.5/CleanRoom-1.0.5.zip",
+  "notes": "On-screen keyboard Greek/English switch (Ελληνικά/Αγγλικά). Self-contained x64."
 }
