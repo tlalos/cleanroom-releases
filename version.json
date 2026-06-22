@@ -1,5 +1,5 @@
-{
-  "version": "1.0.0",
-  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.0/CleanRoom-1.0.0.zip",
-  "notes": "Initial release."
+﻿{
+  "version": "1.0.1",
+  "url": "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.1/CleanRoom-1.0.1.zip",
+  "notes": "Fagron theme + softer backgrounds, auto-update, x64, touch weighing flow (keypad login, on-screen keyboard, document signing) + standalone --weighing kiosk with client.txt, custom dialogs, grid + Production Orders fixes."
 }
