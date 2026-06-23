@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.19",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.19/CleanRoom-1.0.19.zip",
-    "notes":  "New Modern Fagron theme applied app-wide (red actions, dark-slate sidebar, light backgrounds, white cards, refreshed grids). Sampling Quality Control now generates the real external-lab documents (Eurofins/Neotron/FSNE) with a test-selection dialog. Self-contained x64.",
+    "version":  "1.0.20",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.20/CleanRoom-1.0.20.zip",
+    "notes":  "Theme polish to match the approved mockup: selected sidebar item is now a solid red row; toolbars use white bordered secondary buttons with a solid red primary action (New/Save). Self-contained x64.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
