@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.16",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.16/CleanRoom-1.0.16.zip",
-    "notes":  "COAs admin Generate CoA now shows the original expiration-day prompt using the compact back-office input dialog (no on-screen keyboard). Self-contained x64.",
+    "version":  "1.0.17",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.17/CleanRoom-1.0.17.zip",
+    "notes":  "Composition Packaging: Generate CoA (EN/GR) now builds the real section-based document (per-component released test tables); Description/Lot cells have inline picker buttons (removed the toolbar item/lot buttons). Self-contained x64.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
