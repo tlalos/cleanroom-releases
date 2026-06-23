@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.26",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.26/CleanRoom-1.0.26.zip",
-    "notes":  "Supplier Qualification: right-click menu now matches the source exactly — QA Edit Selected (was mislabeled), corrected captions and menu order.",
+    "version":  "1.0.27",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.27/CleanRoom-1.0.27.zip",
+    "notes":  "UI theme: form titles now show an icon + faint red divider (PageHeader) on all views; flatter sidebar with 3x3 dot icon and wider width; Find/Load buttons get an icon + spacing. Also adds the AppCenter Document Validation module (Purchase / Quarantine Release / Production Documents). Flat grid styling staged on Composition Packaging for review.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
