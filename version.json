@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.14",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.14/CleanRoom-1.0.14.zip",
-    "notes":  "Refreshed sidebar: deeper charcoal palette with a red accent, hover lift, and a persistent highlight on the active menu item. Includes maximize-on-launch, the live measurement band at the top of the weighing process, and the logged self-updater. Self-contained x64.",
+    "version":  "1.0.15",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.15/CleanRoom-1.0.15.zip",
+    "notes":  "Item CoA Generate (EN) now reproduces the three original prompts (expiration day, final item code, reference code) using a compact back-office input dialog with standard fonts instead of the on-screen touch keyboard. Self-contained x64.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
