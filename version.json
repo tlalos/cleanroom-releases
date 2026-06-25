@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.28",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.28/CleanRoom-1.0.28.zip",
-    "notes":  "AppCenter Document Agent (WMS receipts -\u003e production documents, feeds Purchase Documents validation) under a new APPCENTER menu. Document-validation grids now auto-size row height and wrap so all data shows; busy overlay covers the full content area; thinner sidebar scrollbar.",
+    "version":  "1.0.29",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.29/CleanRoom-1.0.29.zip",
+    "notes":  "Production Orders web (admin + cart + document dialogs + PDF) and Total Run Time; Production Documents Folder (WPF + web); Greek (comma) number formatting.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
