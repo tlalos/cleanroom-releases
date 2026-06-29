@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.38",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.38/CleanRoom-1.0.38.zip",
-    "notes":  "Fix PostgreSQL production-order save (isnumeric translation no longer corrupts its digit pattern). Shared Core fix, applies to web too.",
+    "version":  "1.0.39",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.39/CleanRoom-1.0.39.zip",
+    "notes":  "Production Orders: 3 printouts (accompany card + cart GR/EN) with preview + printer selection, opening inside the app content area. Plus dd/MM/yyyy dates, sampling/composition PostgreSQL fixes, container/cap/supplies load fix, NoA button, and dashboard updates.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
