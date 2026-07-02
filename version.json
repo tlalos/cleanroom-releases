@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.43",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.43/CleanRoom-1.0.43.zip",
-    "notes":  "Document validation: server-side Pending-By filter + PostgreSQL-only performance indexes on the doc-validation join columns for much faster admin loads (Purchase/Quarantine/Production). Loading overlay added to all three validation lists on web (WPF already had it). Migrator now creates the PG indexes automatically after migrate/init.",
+    "version":  "1.0.44",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.44/CleanRoom-1.0.44.zip",
+    "notes":  "Fix: document-validation Pending-By \u0027Execution Timeout Expired\u0027 on SQL Server (regression from 1.0.43). The batched active-validator query is now used only on PostgreSQL (where the join indexes exist); SQL Server falls back to the previously-working per-relation path. Affects the Purchase/Quarantine/Production validation lists.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
