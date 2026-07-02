@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.45",
-    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.45/CleanRoom-1.0.45.zip",
-    "notes":  "Remove the \u0027Samples Shipping\u0027 entry from the sidebar (not needed for now). No functional changes elsewhere.",
+    "version":  "1.0.46",
+    "url":  "https://github.com/tlalos/cleanroom-releases/releases/download/v1.0.46/CleanRoom-1.0.46.zip",
+    "notes":  "Dashboard: the produced-units-by-month chart now prints a value label above each current-year bar, so a barely-started month (e.g. the first days of the current month) is clearly readable instead of being dwarfed by full months. Added a minimum bar height so non-zero months never disappear.",
     "libreOfficeUrl":  "https://github.com/tlalos/cleanroom-releases/releases/download/libreoffice/LibreOffice.zip"
 }
